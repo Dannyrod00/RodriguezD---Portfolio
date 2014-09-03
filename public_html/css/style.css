@@ -1,0 +1,42 @@
+body{
+    background-color: black; 
+}
+
+nav a {
+    color: blue;
+    text-decoration: none;
+    border-bottom: 4PX solid blue;
+    
+}
+
+p {
+    color: gold;
+}
+h1 {
+    color:aqua;
+    font-size:39px;
+}
+
+h2 {
+    color: aqua; 
+}
+
+#hello-img{
+    width: 250px;
+    height: auto;
+   
+}
+
+#sup-img{
+  width: 500px;
+  height: auto;
+}
+ 
+#PHS-img{
+  width: 500px;
+   hight: auto;
+}
+
+
+
+
