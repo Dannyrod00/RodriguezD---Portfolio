@@ -24,8 +24,8 @@ h2 {
 #hello-img{
     width: 250px;
     height: auto;
-   
 }
+
 
 #sup-img{
   width: 500px;
@@ -36,6 +36,17 @@ h2 {
   width: 500px;
    hight: auto;
 }
+
+#hi{
+    padding-left:500px;
+    padding-right:auto;
+    
+}
+
+
+
+
+
 
 
 
